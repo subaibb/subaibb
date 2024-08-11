@@ -10,7 +10,7 @@
 
 ```javascript
 const suhaib = {
-  code: [Javascript, Typescript, HTML, CSS, Java,C,SQL],
+  code: [Javascript, Typescript, HTML, CSS, Java,C,SQL,GLSL],
   tools: [React, Nextjs, Node, Tailwind, Prisma,Electron,ThreeJS],
   about: {
                         univaersity: "Beirzeit Uni",
