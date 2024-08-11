@@ -13,7 +13,7 @@ const suhaib = {
   code: [Javascript, Typescript, HTML, CSS, Java,C,SQL,GLSL],
   tools: [React, Nextjs, Node, Tailwind, Prisma,Electron,ThreeJS],
   about: {
-                        univaersity: "Beirzeit Uni",
+                        university: "Beirzeit Uni",
                         languages: "English,Arabic",
                         education: "Bachelor of Science in Computer Science"
                       },
