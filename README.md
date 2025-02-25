@@ -10,15 +10,18 @@
 
 ```javascript
 const suhaib = {
-  code: [Javascript, Typescript, HTML, CSS, Java,C,SQL,GLSL],
-  tools: [React, Nextjs, Node, Tailwind, Prisma,Electron,ThreeJS],
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "C", "SQL", "GLSL"],
+  tools: ["React", "Nextjs", "Node", "Tailwind", "Prisma", "Electron", "ThreeJS"],
   about: {
-                        university: "Beirzeit Uni",
-                        languages: "English,Arabic",
-                        education: "Bachelor of Science in Computer Science"
-                      },
- challenge: "trying to get more creative with desiging and new ideas with wep apps , and getting better at problem solving."
-}
+    university: "Beirzeit University",
+    languages: "English, Arabic",
+    education: [
+      "Bachelor of Science in Electrical Engineering",
+      "Minor in Computer Science"
+    ]
+  },
+  challenge: "trying to get more creative with designing and new ideas with web apps, and getting better at problem solving."
+};
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
