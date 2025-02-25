@@ -4,7 +4,7 @@
 [![Twitter: @subaibbb](https://img.shields.io/twitter/follow/subaibbb?style=social)](https://x.com/subaibbb)
 [![Linkedin: Suhaib Rawajbeh](https://img.shields.io/badge/-suhaibrawajbeh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subaibbb/)](https://www.linkedin.com/in/suhaib-ْrawajbeh-4527a5303/)
 [![GitHub Suhaib](https://img.shields.io/github/followers/subaibb?label=follow&style=social)](https://github.com/subaibb)
-[![Website: Suhaib](https://img.shields.io/badge/-Suhaib.com-blue?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://www.suhaib.com)](https://www.suhaib.com)
+[![Website: Suhaib](https://img.shields.io/badge/-Suhaib.com-blue?style=flat-square&logo=Internet-explorer&logoColor=white&link=https://www.suhaib.com)](https://www.subaib.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
