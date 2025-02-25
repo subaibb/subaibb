@@ -10,7 +10,7 @@
 
 ```javascript
 const suhaib = {
-  website:www.subaib.com
+  website:[www.suhaib.com](https://www.suhaib.com)
   code: ["Javascript", "Typescript", "HTML", "CSS", "Java", "C", "SQL", "GLSL"],
   tools: ["React", "Nextjs", "Node", "Tailwind", "Prisma", "Electron", "ThreeJS"],
   about: {
